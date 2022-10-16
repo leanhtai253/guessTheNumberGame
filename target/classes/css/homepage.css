@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    text-align: center;
+}
+.welcome-section{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.header{
+    font-size: 50px;
+    font-weight: bold;
+}
+.form-control{
+    margin: 0 auto;
+    width: 50%;
+    background-color: transparent;
+    border: 2px solid #527c70;
+}
+.btn-login{
+    background-color: #90b77d;
+    width: 120px;
+}
+.btn-login:hover{
+    background-color: #90b77d;
+}
+.btn{
+    border-radius: 20px;
+}

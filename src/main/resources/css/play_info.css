@@ -1,0 +1,48 @@
+body{
+    background-color: #FDEEDC;
+    margin:0;
+}
+.display-result {
+    color: #527c70;
+    font-weight: bold;
+}
+.play-section{
+    background-color: white;
+}
+.row{
+    height:100%;
+    width:100%;
+    margin:0;
+}
+
+.user-section{
+    width:40%;
+}
+.middle {
+    padding-top: 200px;
+}
+.container-fluid{
+    padding:0;
+}
+.btn-success{
+    background-color: #90b77d;
+    width: 120px;
+    color: white;
+    border: none;
+}
+.btn-success:hover{
+    background-color: #527c70;
+}
+.btn-playing{
+    background-color: #f1a661;
+    width: 120px;
+    color: white;
+    border: none;
+}
+.btn-playing:hover{
+    color:white;
+    background-color: #A44F30;
+}
+.form-control-playing{
+    border: 2px solid #f1a661;
+}
